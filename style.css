@@ -1,0 +1,93 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px
+}
+.login-controls{
+margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    height: 20px;
+    color: #fff;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: #1f335f;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 900px;
+}
+.image {
+    width: 581px;
+    padding-left: 132px;
+    padding-top: 52px;
+}
+.para{
+    padding-left: 130px;
+    font-weight: bold;
+    font-size: 21px;
+    padding-top: 50px;
+}
+
+.mail-num{
+    margin-top: 6px;
+    padding-right: 154px;
+}
+p{
+    font-size: 10px;
+}
+button{
+    background-color:#00a400 ;
+    padding: 6px 63px;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+}
